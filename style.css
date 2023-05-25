@@ -1,0 +1,251 @@
+
+body {
+    background: greenyellow;
+    
+}
+
+.nav .a .button {
+    color: #fff;
+    }
+
+
+button.nav1 {
+    color:rgb(255, 255, 255);
+    background-color:rgb(255, 0, 51);
+    height: 45px;
+    width:98px;
+    border-radius: 15px;
+    position:fixed;
+    right:95%;
+    top:13%;
+    font-size: 19px;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: none;
+    font-family:Impact, fantasy, Arial Narrow Bold;
+
+}
+
+button.nav2{
+    color:white;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 19px ;
+    height: 45px;
+    width:98px;
+    border-radius:12px;
+    background-color:coral !important;
+    position:fixed;
+    right:95%;
+    top:19%;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: none;
+    color: #fff;
+
+
+
+}
+
+
+
+button.nav3{
+    
+    font-size: 19px ;
+    height: 45px;
+    width:98px;
+    border-radius:12px;
+    background-color:coral !important;    
+    position:fixed;
+    right:95%;
+    top:24%;
+    font-family:fantasy;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+button.nav4{
+ 
+    font-size: 19px ;
+    height: 45px;
+    width:98px;
+    border-radius:12px;
+    background-color:coral !important;    
+    position:fixed;
+    right:95%;
+    top:29%;
+    font-family: fantasy;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+button.nav5{
+    color:white;
+    font-size: 19px ;
+    height: 45px;
+    width:98px;
+    border-radius:12px;
+    font-family: fantasy;
+    background-color:coral !important;
+    position:fixed;
+    right:95%;
+    top:39%;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+button.nav6{
+    color:white;
+    font-size: 19px ;
+    height: 45px;
+    font-family: fantasy;
+    width:98px;
+    border-radius:12px;
+    background-color:coral !important;
+    position:fixed;
+    right:95%;
+    top:34%;
+    text-decoration: overline;
+    text-decoration: line-through;
+    text-decoration: underline;
+    text-decoration: none;
+    color: #fff;
+
+}
+
+
+button.bg{
+    height: 16cm;
+    width: 111px;
+    position:fixed;
+    right:99%;
+    top:4%;
+    border-radius: 12px;
+    background-color:chocolate
+}
+
+
+button.bg2{
+    height: 166px;
+    width: 129px;
+    position:fixed;
+    right:93%;
+    top:44%;
+    border-radius: 12px;
+    background-color:chocolate
+}
+
+
+button.bg3{
+    height: 45px;
+    width:68px;
+    position:fixed;
+    right:99%;
+    top:1%;
+    border-radius: 12px;
+    background-color:chocolate
+}
+
+button.bg4{
+    height: 16cm;
+    width: 112px;
+    position:fixed;
+    right:99%;
+    top:1%;
+    border-radius: 12px;
+    background-color:chocolate
+}
+
+img.img1{
+    color:darkcyan;
+    height: 33px;
+}
+
+button.potto1{
+    border-radius: 14px;
+    position: fixed;
+    top:45%;
+    right:93%;
+}
+
+
+
+img.img2{
+    color:darkcyan;
+    height: 33px;
+}
+
+button.potto2{
+    border-radius: 14px;
+    position: fixed;
+    top:50%;
+    right:93%;
+}
+
+
+
+img.img3{
+    color:darkcyan;
+    height: 33px;
+}
+
+button.potto3{
+    border-radius: 14px;
+    position: fixed;
+    top:55%;
+    right:93%;
+
+}
+
+
+
+
+img.img4{
+    color:darkcyan;
+    height: 33px;
+}
+
+button.potto4{
+    border-radius: 14px;
+    position: fixed;
+    top:55%;
+    right:96%;
+}
+
+img.img5{
+    color:darkcyan;
+    height: 33px;
+}
+
+button.potto5{
+    border-radius: 14px;
+    position: fixed;
+    top:50%;
+    right:96%;
+}
+
+
+img.img6{
+    color:darkcyan;
+    height: 33px;
+}
+
+button.potto6{
+    border-radius: 14px;
+    position: fixed;
+    top:45%;
+    right:96%;
+}
